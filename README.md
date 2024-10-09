@@ -1,7 +1,7 @@
-# Some example for Unit Test SwiftUI View
+# Some example for Unit Test SwiftUI Views
 
 This repository uses 2 tools
-- https://github.com/nalexn/ViewInspector : for dynamicaly load a specific view and check values inside
+- https://github.com/nalexn/ViewInspector : for dynamically loading a specific view and checking values inside
 - https://github.com/pointfreeco/swift-snapshot-testing : for comparing a rendered view and check regression
 
 
